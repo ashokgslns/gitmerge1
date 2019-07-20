@@ -4,6 +4,11 @@ class Second
 
 class Third
 
+
 slave class int num=10 
 int count=15
+
+slave class int num=15 
+int count=20
+
 
