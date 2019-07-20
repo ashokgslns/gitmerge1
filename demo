@@ -5,5 +5,5 @@ class Second
 class Third
 
 slave class int num=10 
-int count=20
+int count=15
 
